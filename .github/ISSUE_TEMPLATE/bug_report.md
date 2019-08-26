@@ -1,4 +1,4 @@
-**Describe the problem**
+## Description
 <!--- A clear and concise description of what the problem is -->
 
 ## Expected Behavior
@@ -17,8 +17,8 @@
 3.
 4.
 
-**Screenshots**
+## Screenshots
 <!--- If applicable, add screenshots to help explain your problem -->
 
-## Detailed Description
+## Additional Information
 <!--- If more information is helpful, provide a detailed description of the problem -->
