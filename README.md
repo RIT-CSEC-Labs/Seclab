@@ -1,2 +1,2 @@
 # Seclab
-Code hosted here for seclab miscellaneous purposes
+Seclab code hosted here
